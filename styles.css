@@ -39,6 +39,24 @@ p {
     gap: 10px;
 }
 
+.categoria-videosSAFE {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria-videosEUCL {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria-videosKETE {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
@@ -46,6 +64,21 @@ p {
 }
 
 .categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videosSAFE img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videosEUCL img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videosKETE img {
     opacity: 0.5;
     height: 200px;
 }
