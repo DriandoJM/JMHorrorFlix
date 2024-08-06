@@ -55,6 +55,21 @@ p {
     border: 3px solid green;
 }
 
+.categoria-videosSAFE img:hover {
+    opacity: 1.0;
+    border: 3px solid green;
+}
+
+.categoria-videosEUCL img:hover {
+    opacity: 1.0;
+    border: 3px solid yellow;
+}
+
+.categoria-videosKETE img:hover {
+    opacity: 1.0;
+    border: 3px solid red;
+}
+
 .categoria h2 {
     color: rgb(42, 122, 228);
 }
